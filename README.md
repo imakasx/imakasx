@@ -2,7 +2,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Computer Science Engineering Graduate | Full Stack Developer | Problem Solver</h3>
+<h3 data-importer="text" align="left">Full Stack Developer | Web Developer | Problem Solver</h3>
 
 ###
 
