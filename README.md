@@ -47,5 +47,10 @@
 </div>
 
 ###
+  <h2 data-importer="text" align="left">🚀 My Progress Overview</h
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imakasx&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imakasx&theme=tokyonight)
+
+###
 
 [![](https://komarev.com/ghpvc/?username=imakasx)](https://visitcount.itsvg.in)
